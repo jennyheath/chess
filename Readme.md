@@ -1,4 +1,8 @@
-### Chess
+# Chess
+
+
+![alt text](screenshot.png)
+
 
 A CLI chess game written in Ruby!
 
